@@ -1,0 +1,30 @@
+.add-remove-signals-panel {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.add-remove-buttons {
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.add-remove-selection {
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.add-remove-buttons:hover {
+    font-size: 15px;
+}
+
+.add-remove-buttons:hover {
+    font-size: 15px;
+}

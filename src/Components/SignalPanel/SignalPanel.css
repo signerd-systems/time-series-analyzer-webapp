@@ -1,0 +1,76 @@
+ * {
+     font-family: sans-serif, serif;
+ }
+
+.signal-panel {
+    margin: 20px;
+    padding: 10px;
+}
+
+.signal-panel-heading {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 10px;
+    display: inline;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.primary-signal-plot {
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.signal-manipulation-analysis-panel {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+}
+
+.add-signal-manipulation-panel {
+    margin: 20px;
+    font-size: 10px;
+}
+
+.add-signal-manipulation-panel:hover{
+    font-size: 15px;
+}
+
+.add-analysis-panel {
+    margin: 20px;
+    font-size: 10px;
+}
+
+.add-analysis-panel:hover{
+    font-size: 15px;
+}
+
+.analysis-selection {
+    font-size: 15px;
+}
+
+.signal-manipulation-selection {
+    font-size: 15px;
+}
+
+.remove-signal-manipulation-panel {
+    display: inline;
+    font-size: 15px;
+    background-color: rgb(255, 125, 125);
+    border-radius: 5px;
+}
+
+.signal-manipulation-panel {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.remove-signal-analysis-panel {
+    display: inline;
+    font-size: 1.2em;
+    background-color: rgb(255, 125, 125);
+    border-radius: 5px;
+}

@@ -1,0 +1,48 @@
+.time-series-analysis-main {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 100vw;
+  }
+  
+  .load-measurement-and-tutorial{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+  
+  .import-json-data-display {
+    display: block;
+  }
+  
+  .load-tutorial-display {
+    display: block;
+  }
+  
+  .data-table-display {
+    position: sticky;
+    top: 0;
+    display: block;
+    width: 100vw;
+  }
+  
+  .signal-panel-display {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    width: 100vw;
+  }
+  
+  .nav-bar-button:hover {
+    padding: 10px;
+  }
+  
+  .signal-panel {
+    padding: 10px;
+  }
+  
+  .test-tutorial {
+    position: relative;
+    top: 0;
+  }

@@ -1,0 +1,16 @@
+.xy-plot-panel {
+    display: flex;
+    flex-direction: column;
+}
+
+.xy-plot-display {
+    flex-grow: 2;
+}
+
+.xy-plot-add-remove-signals {
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    flex-shrink: 1;
+    border-radius: 5px;
+}

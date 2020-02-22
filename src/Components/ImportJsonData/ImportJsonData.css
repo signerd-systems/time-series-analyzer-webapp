@@ -1,0 +1,24 @@
+.import-json {
+    font-family: sans-serif, serif;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 1.2em;
+    display: inline-block;
+}
+
+.import-json-button {
+    display: inline-block;
+    padding: 5px;
+    border-radius: 2px;
+    display: block;
+    background-color: rgb(0, 150, 250);;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.import-json-button:hover{
+    cursor: pointer;
+    font-weight: bold;
+    padding: 10px;
+}

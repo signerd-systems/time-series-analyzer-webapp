@@ -1,0 +1,19 @@
+.scatter-plot-panel {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+.scatter-plot-display {
+    text-align: center;
+}
+
+.scatter-plot-add-remove-signals {
+    border: 1px solid ;
+    padding: 10px;
+    display: flex;
+    flex-grow: row;
+    flex-wrap: wrap;
+    border-radius: 5px;
+}
